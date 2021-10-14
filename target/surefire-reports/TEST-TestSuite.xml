@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="30.349" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="30.279" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_301\bin"/>
-    <property name="sun.java.command" value="C:\Users\LDS\AppData\Local\Temp\surefire2788110232069107956\surefirebooter4760015303687200153.jar C:\Users\LDS\AppData\Local\Temp\surefire2788110232069107956 2021-10-14T15-53-54_659-jvmRun1 surefire7732877725161695449tmp surefire_04864297338444997566tmp"/>
+    <property name="sun.java.command" value="C:\Users\LDS\AppData\Local\Temp\surefire2479589020728016648\surefirebooter7247410649848992268.jar C:\Users\LDS\AppData\Local\Temp\surefire2479589020728016648 2021-10-14T16-17-49_983-jvmRun1 surefire7682928425269028547tmp surefire_01087189634141768191tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\LDS\eclipse-workspace\Demo\target\test-classes;C:\Users\LDS\eclipse-workspace\Demo\target\classes;C:\Users\LDS\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\LDS\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\LDS\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\LDS\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\LDS\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\LDS\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\LDS\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\LDS\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\LDS\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\LDS\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\LDS\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\LDS\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\LDS\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Users\LDS\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\LDS\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\LDS\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\LDS\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\LDS\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\LDS\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\LDS\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\LDS"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\LDS\AppData\Local\Temp\surefire2788110232069107956\surefirebooter4760015303687200153.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\LDS\AppData\Local\Temp\surefire2479589020728016648\surefirebooter7247410649848992268.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_301\lib\resources.jar;C:\Program Files\Java\jre1.8.0_301\lib\rt.jar;C:\Program Files\Java\jre1.8.0_301\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_301\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_301\lib\jce.jar;C:\Program Files\Java\jre1.8.0_301\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_301\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_301\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,16 +61,16 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="initilizeGoogle" classname="google.Gmail" time="3.99">
-    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 42034
+  <testcase name="initilizeGoogle" classname="google.Gmail" time="6.209">
+    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 25359
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Oct 14, 2021 3:54:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Oct 14, 2021 4:17:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="initilizeGmail" classname="google.Gmail" time="4.948">
+  <testcase name="initilizeGmail" classname="google.Gmail" time="16.338">
     <system-out><![CDATA[Gmail opened
 ]]></system-out>
   </testcase>
