@@ -18,5 +18,7 @@ public class Gmail extends Base{
 	public void initilizeGmail()
 	{
 		driver.findElement(By.xpath("//a[text()='Gmail']")).click();
+		System.out.println("Gmail opened");
+		
 	}
 }

@@ -2,22 +2,22 @@
 <testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16306" started-at="2021-10-12T13:46:13 IST" finished-at="2021-10-12T13:46:30 IST">
+  <suite name="Suite" duration-ms="28745" started-at="2021-10-14T15:53:57 IST" finished-at="2021-10-14T15:54:26 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="16306" started-at="2021-10-12T13:46:13 IST" finished-at="2021-10-12T13:46:30 IST">
+    <test name="Test" duration-ms="28745" started-at="2021-10-14T15:53:57 IST" finished-at="2021-10-14T15:54:26 IST">
       <class name="google.Gmail">
-        <test-method status="PASS" signature="initilizeGoogle()[pri:0, instance:google.Gmail@6321e813]" name="initilizeGoogle" duration-ms="7100" started-at="2021-10-12T13:46:18 IST" finished-at="2021-10-12T13:46:25 IST">
+        <test-method status="PASS" signature="initilizeGoogle()[pri:0, instance:google.Gmail@6321e813]" name="initilizeGoogle" duration-ms="4061" started-at="2021-10-14T15:54:17 IST" finished-at="2021-10-14T15:54:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilizeGoogle -->
-        <test-method status="PASS" signature="initilizeGmail()[pri:1, instance:google.Gmail@6321e813]" name="initilizeGmail" duration-ms="4660" started-at="2021-10-12T13:46:25 IST" finished-at="2021-10-12T13:46:30 IST">
+        <test-method status="PASS" signature="initilizeGmail()[pri:1, instance:google.Gmail@6321e813]" name="initilizeGmail" duration-ms="4950" started-at="2021-10-14T15:54:21 IST" finished-at="2021-10-14T15:54:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilizeGmail -->
       </class> <!-- google.Gmail -->
       <class name="resources.Base">
-        <test-method status="PASS" signature="initilizeDriver()[pri:0, instance:resources.Base@3701eaf6]" name="initilizeDriver" is-config="true" duration-ms="4428" started-at="2021-10-12T13:46:13 IST" finished-at="2021-10-12T13:46:18 IST">
+        <test-method status="PASS" signature="initilizeDriver()[pri:0, instance:resources.Base@3701eaf6]" name="initilizeDriver" is-config="true" duration-ms="19644" started-at="2021-10-14T15:53:57 IST" finished-at="2021-10-14T15:54:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilizeDriver -->
