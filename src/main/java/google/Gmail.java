@@ -19,6 +19,7 @@ public class Gmail extends Base{
 	{
 		driver.findElement(By.xpath("//a[text()='Gmail']")).click();
 		System.out.println("Gmail opened");
+		System.out.println("Gmail opened with new branch also");
 		
 	}
 }
